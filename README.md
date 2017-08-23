@@ -11,5 +11,4 @@
 düzeltmelerinizi GitHub'da açacapınız Issue'lar üzerinden benimle paylaşabilirsiniz.
 
 
-
-
+![Git ile Versiyon Kontrolü Kapak](/git-ile-versiyon-kontrolu/git_dvcs_book.jpg?raw=true "Git ile Versiyon Kontrolü Kapak") 
